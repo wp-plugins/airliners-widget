@@ -1,4 +1,4 @@
-=== Page in Widget ===
+=== Airliners Widget ===
 Contributors: sierramike
 Tags: picture, image, aviation, airliners, widget
 Requires at least: 2.8

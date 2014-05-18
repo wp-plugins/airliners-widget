@@ -2,8 +2,8 @@
 Contributors: sierramike
 Tags: picture, image, aviation, airliners, widget
 Requires at least: 2.8
-Tested up to: 3.9
-Stable tag: 1.0.1
+Tested up to: 3.9.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,6 +16,8 @@ This widget allows you to display an Airliners.net aviation picture on your webs
 The widget uses a class called "widget_airliners_widget" allowing you to enforce some rendering, as the default block provided by Airliners.net is black with white writing.
 
 Included is airliners-widget.css style sheet that shows how to get the block with gray writing and transparent background. Feel free to edit this file to suit your needs !
+
+This widget comes out of the box with french and german translations.
 
 This widget also supports shortcodes !
 
@@ -44,6 +46,10 @@ Displays the picture corresponding to id '123456'.
 2. Sample rendering.
 
 == Changelog ==
+
+= 1.1 =
+* Added translation capabilities
+* Included french and german translations
 
 = 1.0.1 =
 * Tested compatibility up to Wordpress 3.9

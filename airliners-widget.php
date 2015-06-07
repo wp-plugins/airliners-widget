@@ -1,13 +1,13 @@
 <?php
 /**
  * @package Airliners_widget
- * @version 1.1
+ * @version 1.1.1
  */
 /*
   Plugin Name: Airliners Widget
   Plugin URI: http://wordpress.org/plugins/airliners-widget
   Description: Displays an Airliners.net picture (Random, Top Of Yesterday, or specific picture by ID) using official Airliners.net script
-  Version: 1.1
+  Version: 1.1.1
   Author: Stéphane Moitry
   Author URI: http://stephane.moitry.fr
   License: GPLv2 or later
@@ -15,7 +15,7 @@
   Domain Path: /languages
  */
 
-/*  Copyright 2013-2014  Stéphane Moitry (stephane.moitry@gmail.com)
+/*  Copyright 2013-2015  Stéphane Moitry (stephane.moitry@gmail.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
